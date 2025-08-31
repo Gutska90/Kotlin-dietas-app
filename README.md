@@ -57,8 +57,8 @@ La aplicación incluye 5 dietas diferentes:
 
 1. **Clonar el proyecto**:
    ```bash
-   git clone <repository-url>
-   cd Kotlin_duoc
+   git clone https://github.com/Gutska90/Kotlin-dietas-app.git
+   cd Kotlin-dietas-app
    ```
 
 2. **Abrir en Android Studio**:
